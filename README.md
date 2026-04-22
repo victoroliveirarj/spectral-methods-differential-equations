@@ -22,4 +22,17 @@ This repository contains numerical experiments and implementations of spectral m
 
 ## Author
 Victor Oliveira
+
 Physics researcher focused on numerical modeling, scientific computing, and spectral methods.
+
+## How to run
+
+pip install -r requirements.txt
+
+python spectral_intro.py
+
+python basis_functions.py
+
+python collocation_example.py
+
+python convergence_analysis.py
